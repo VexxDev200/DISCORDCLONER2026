@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "released": "2026-11-01T00:00:00Z",
+  "note": "Заполняется publish_update.py — не редактируй zip URL вручную",
+  "products": {
+    "bundle": {
+      "version": "2026.11.01.1",
+      "zip": "",
+      "sha256": ""
+    }
+  }
+}

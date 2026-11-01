@@ -1,0 +1,14 @@
+{
+  "dry_run": false,
+  "resume": true,
+  "use_neon_db": true,
+  "bot": {
+    "token": "BOT_TOKEN_FROM_DEVELOPER_PORTAL",
+    "client_id": "APPLICATION_CLIENT_ID",
+    "client_secret": "CLIENT_SECRET",
+    "redirect_uri": "http://127.0.0.1:8765/oauth/callback",
+    "oauth_port": 8765,
+    "oauth_mode": "auto",
+    "sync_guild_id": "YOUR_GUILD_ID_FOR_INSTANT_SLASH"
+  }
+}

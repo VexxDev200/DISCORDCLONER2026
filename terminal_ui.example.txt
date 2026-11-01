@@ -1,0 +1,31 @@
+banner: VEXX ASCII
+font: slant
+preset: Iridescent (перелив)
+center: TEST
+meta: TEST · TEST · TEST
+
+[menu columns=2 style=double gap=3]
+-- TEST --
+1 | TEST
+2 | TEST
+3 | TEST
+-- TEST --
+4 | TEST
+5 | TEST
+6 | TEST
+[/menu]
+
+[table style=double title=TEST]
+TEST | TEST
+TEST | TEST
+TEST | TEST
+[/table]
+
+[list style=single]
+1 | TEST
+2 | TEST
+3 | TEST
+0 | TEST
+[/list]
+
+prompt: [+] TEST ->

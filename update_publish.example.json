@@ -1,0 +1,8 @@
+{
+  "github_repo": "VexxDev200/DISCORDCLONER2026",
+  "branch": "main",
+  "tag_prefix": "v",
+  "commit_message": "release {version}",
+  "push": true,
+  "create_release": true
+}

@@ -1,0 +1,8 @@
+# Permission Compiler (optional). Role names must match Discord.
+# role "Moderator" {
+#   hoist;
+#   mentionable;
+#   color 0xffd9b7;
+#   allow ManageChannels, KickMembers, ModerateMembers;
+#   deny Administrator;
+# }

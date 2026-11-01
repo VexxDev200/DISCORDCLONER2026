@@ -1,0 +1,14 @@
+{
+  "manifest_url": "",
+  "channel": "stable",
+  "auto_check_on_startup": true,
+  "auto_apply": true,
+  "use_bundle": true,
+  "check_interval_hours": 6,
+  "products": {
+    "cloner": true,
+    "bot": false,
+    "ascii": true
+  },
+  "git_pull_if_repo": true
+}

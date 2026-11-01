@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "released": "2026-11-01T00:00:00Z",
+  "notes": "Пример манифеста. Положи копию на HTTPS и укажи URL в update_config.json",
+  "products": {
+    "cloner": {
+      "version": "2026.11.01.1",
+      "zip": "https://example.com/releases/vexx-cloner-2026.11.01.1.zip",
+      "sha256": "",
+      "exe": {
+        "url": "https://example.com/releases/GodCloner.exe",
+        "sha256": ""
+      }
+    },
+    "bot": {
+      "version": "2026.11.01.1",
+      "zip": "https://example.com/releases/vexx-bot-2026.11.01.1.zip",
+      "sha256": ""
+    },
+    "ascii": {
+      "version": "2026.11.01.1",
+      "zip": "https://example.com/releases/vexx-ascii-2026.11.01.1.zip",
+      "sha256": ""
+    },
+    "bundle": {
+      "version": "2026.11.01.1",
+      "zip": "https://example.com/releases/vexx-bundle-2026.11.01.1.zip",
+      "sha256": ""
+    }
+  }
+}

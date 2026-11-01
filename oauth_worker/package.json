@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4"
+  },
+  "devDependencies": {
+    "wrangler": "^4.156.0"
+  }
+}
