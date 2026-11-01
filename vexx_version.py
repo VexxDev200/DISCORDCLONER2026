@@ -5,7 +5,7 @@
 from __future__ import annotations
 
 # Формат: YYYY.MM.DD.N — увеличивай N при каждом релизе в день.
-__version__ = "2026.11.01.1"
+__version__ = "2026.11.1.2"
 
 PRODUCT_CLONER = "cloner"
 PRODUCT_BOT = "bot"

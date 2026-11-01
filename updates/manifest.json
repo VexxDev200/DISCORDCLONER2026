@@ -1,13 +1,29 @@
 {
   "schema": 1,
   "channel": "stable",
-  "released": "2026-11-01T00:00:00Z",
-  "note": "Заполняется publish_update.py — не редактируй zip URL вручную",
+  "released": "2026-11-01T20:37:18Z",
+  "github_repo": "VexxDev200/DISCORDCLONER2026",
+  "github_tag": "v2026.11.1.2",
   "products": {
+    "cloner": {
+      "version": "2026.11.1.2",
+      "zip": "https://github.com/VexxDev200/DISCORDCLONER2026/releases/download/v2026.11.1.2/vexx-cloner-2026.11.1.2.zip",
+      "sha256": "bc6b88e3c946e92cd15f2d31555c9994fb3514b42e0bdd7d0622e8d003ed9807"
+    },
+    "bot": {
+      "version": "2026.11.1.2",
+      "zip": "https://github.com/VexxDev200/DISCORDCLONER2026/releases/download/v2026.11.1.2/vexx-bot-2026.11.1.2.zip",
+      "sha256": "95c295a92d7f1a5af0c83dec0ca31615cdc10cf42eb148c7ba2762d0aa8d1ad2"
+    },
+    "ascii": {
+      "version": "2026.11.1.2",
+      "zip": "https://github.com/VexxDev200/DISCORDCLONER2026/releases/download/v2026.11.1.2/vexx-ascii-2026.11.1.2.zip",
+      "sha256": "83403a717aeab76faa081c54687886585cdee8acb7e3658217aa77bc5e19aa2d"
+    },
     "bundle": {
-      "version": "2026.11.01.1",
-      "zip": "",
-      "sha256": ""
+      "version": "2026.11.1.2",
+      "zip": "https://github.com/VexxDev200/DISCORDCLONER2026/releases/download/v2026.11.1.2/vexx-bundle-2026.11.1.2.zip",
+      "sha256": "213678d06cb87910baaf2da7c9c84ce8e6c01c696a8d02ff73241bac819ef82f"
     }
   }
 }
